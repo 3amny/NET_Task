@@ -1,0 +1,18 @@
+username,useridentifier,age,city,phonenumber,email
+Alice,1,28,New York,123-456-7890,alice@example.com
+Bob,2,34,Los Angeles,123-456-7891,bob@example.com
+Charlie,3,45,Chicago,123-456-7892,charlie@example.com
+Charlie,3,46,Texas,123-456-7892,charlie@gmail.com
+David,4,23,Dallas,123-456-7893,david@example.com
+Eve,5,38,Houston,123-456-7894,eve@example.com
+Frank,6,29,Phoenix,123-456-7895,frank@example.com
+Grace,7,52,Philadelphia,123-456-7896,grace@example.com
+Hannah,8,31,San Antonio,123-456-7897,hannah@example.com
+Hannah,8,29,San Antonio,123-654-7897,hannah1@example.com
+Ian,9,47,San Diego,123-456-7898,ian@example.com
+Jack,10,40,Denver,123-456-7899,jack@example.com
+Karen,11,50,San Francisco,123-456-7888,karen@example.com
+Liam,12,28,San Jose,123-456-7878,liam@example.com
+Mona,13,39,Detroit,123-456-7868,mona@example.com
+Nathan,14,24,Austin,123-456-7858,nathan@example.com
+Olivia,15,35,Jacksonville,123-456-7848,olivia@example.com
